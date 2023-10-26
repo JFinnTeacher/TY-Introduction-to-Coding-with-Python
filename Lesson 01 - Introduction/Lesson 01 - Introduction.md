@@ -31,6 +31,7 @@ There are a number of ways that you can create and run Python Code both online a
 ### Online IDEs
 1. Replit: Replit is a popular online IDE that supports Python programming. It provides a web-based coding environment with features like code editing, execution, collaboration, and version control. Replit also offers a community where users can share and explore projects.
 2. Trinket: Trinket (trinket.io) is an online platform that offers an interactive coding environment for Python and other programming languages. It allows users to write, run, and share Python code directly from their web browser. Trinket provides a simple and beginner-friendly interface, making it suitable for educational purposes and quick prototyping. It also supports collaborative coding and provides features like version control and project sharing.
+3. 
 3. Glitch: Glitch is an online IDE that supports various programming languages, including Python. It offers a collaborative coding environment where users can create, edit, and run Python code in real-time. Glitch also provides features like version control, project sharing, and deployment options.
 
 
