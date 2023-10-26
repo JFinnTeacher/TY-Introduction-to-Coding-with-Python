@@ -1,4 +1,4 @@
-## What is Python? [^1]
+## What is Python? 
 Python was developed by Guido van Rossum in 1991. It's known for its clear syntax and readability, which reduces the cost of program maintenance. There are a number of advantages to learning and using Python as a programming language such as -
 1. Easy to learn and use: Python has a simple and readable syntax, making it a great language for beginners. It emphasizes code readability and allows developers to express concepts in fewer lines of code compared to other languages.
 2. Large and active community: Python has a vast community of developers who actively contribute to its growth and development. 
@@ -31,9 +31,6 @@ There are a number of ways that you can create and run Python Code both online a
 ### Online IDEs
 1. Replit: Replit is a popular online IDE that supports Python programming. It provides a web-based coding environment with features like code editing, execution, collaboration, and version control. Replit also offers a community where users can share and explore projects.
 2. Trinket: Trinket (trinket.io) is an online platform that offers an interactive coding environment for Python and other programming languages. It allows users to write, run, and share Python code directly from their web browser. Trinket provides a simple and beginner-friendly interface, making it suitable for educational purposes and quick prototyping. It also supports collaborative coding and provides features like version control and project sharing.
-3. Glitch: Glitch is an online IDE that supports various programming languages, including Python. It offers a collaborative coding environment where users can create, edit, and run Python code in real-time. Glitch also provides features like version control, project sharing, and deployment options.
 
 
 ---
-
-[^1]: This page was created with the assistance of ChatGPT from OpenAI
