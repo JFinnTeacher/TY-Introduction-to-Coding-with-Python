@@ -1,4 +1,4 @@
-# Lesson 05 - algorithms and Pseudocode
+# Lesson 05 - Algorithms and Pseudocode
 
 ## Exercise 01 - Algorithms
 
