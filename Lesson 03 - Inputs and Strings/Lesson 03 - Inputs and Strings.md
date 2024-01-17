@@ -2,7 +2,7 @@
 
 ## Exercise 01
 
-### Task 1:
+### Task 1
 
 Take in a string variable for your name from the user. Do this by using the input() function.
 
@@ -12,11 +12,11 @@ name = input()
 
 it is up to you if you want to prompt the user for input or leave the input function blank.
 
-### Task 2:
+### Task 2
 
 Add to task 1 by adding a print function to your program and printing out the name variable.
 
-### Task 3:
+### Task 3
 
 Copy and paste the code from the code section into repl.it.
 
@@ -33,7 +33,7 @@ reptile = "Salamander"
 print(reptile[]) 
 ```
 
-### Task 4:
+### Task 4
 
 Copy and paste the code from the code section into repl.it.
 
@@ -52,9 +52,9 @@ print(mammal[:])
 
 ## Exercise 02
 
-### Task 1:
+### Task 1
 
-Using the input function, take in your first and last name as the variables: 
+Using the input function, take in your first and last name as the variables:
 
 ```
 first_name, last_name.
@@ -66,7 +66,7 @@ Concatenate (add together) the 2 variables and assign them to the variable: full
 
 Use the print() function to display the full name variable to your screen.
 
-### Task 2:
+### Task 2
 
 Using the input() function, take in your age as an integer variable, call the variable:
 
@@ -76,7 +76,7 @@ Using the input() function, take in your age as an integer variable, call the va
 
 print out the age variable using the print() function.
 
-### Task 3:
+### Task 3
 
 Copy the String variable: biggest_animal = "blue whale" into repl.it and use string slicing to print out the first and last character of the string.
 
@@ -86,7 +86,7 @@ Code:
 biggest_animal = "blue whale" 
 ```
 
-### Task 4:
+### Task 4
 
 Using the input function, take in 2 numbers as the variables: num_1 and num_2
 
@@ -96,7 +96,7 @@ Print out the answer variable.
 
 ## Exercise 03
 
-### Task 1:
+### Task 1
 
 You are going to use string slicing to find the 2 hidden animals inside my_word.
 
@@ -108,9 +108,7 @@ print(my_word[3:])
 print(my_word[3:])
 ```
 
-
-
-### Task 2:
+### Task 2
 
 Using the input() function take in values for the variables:
 
@@ -122,13 +120,13 @@ Using the input() function take in values for the variables:
 
 ·    Number (You can leave your number as a string)
 
-Use either String concatenation (adding together) or formatting “format()” to output the sentence: 
+Use either String concatenation (adding together) or formatting “format()” to output the sentence:
 
 Hello name you are age years old, you live at address and your phone number is number.
 
-### Task 3:
+### Task 3
 
-Using string slicing, slice the first 3 characters from the first_word and second_word variables. 
+Using string slicing, slice the first 3 characters from the first_word and second_word variables.
 
 Assign each new 3 letter word to the variables: start_of_new_word, end_of_new_word. Concatenate the 2 new 3 letter Strings to make an entirely new word and then print the new word.
 
@@ -144,7 +142,7 @@ print(new_word)
 
 ## Exercise 04
 
-### Task 1:
+### Task 1
 
 A You are tasked with taking in 2 numbers from the user.
 
@@ -161,7 +159,7 @@ Print out the 2 variables.
 - Floor is like standard Division but discards any remainder and is carried out using //
 - Mod or Modulus is standard division but only returns the remainder and is carried out using %
 
-### Task 2:
+### Task 2
 
 You will be taking in both a string and a number from the user using the input() function.
 
