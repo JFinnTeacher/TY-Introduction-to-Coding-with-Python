@@ -42,7 +42,7 @@ Repeat this process for the following shapes assuming the same 50 unit measureme
 
 Working in Pairs use the online Maze Generator at https://www.mazegenerator.net/ to create a maze. Download this maze as a pdf or png image or use the maze supplied below.
 
-![20 by 20 orthogonal maze](C:\Users\Work\OneDrive\10-19 Documents\15 Subject Notes\15.02 TY Coding\Current Files\Lesson 05 - Algorithms and Pseudocode\20 by 20 orthogonal maze.png)
+![20 by 20 orthogonal maze](20 by 20 orthogonal maze.png)
 
 Create an algorithm to solve this maze starting from the bottom and moving to the exit at the top.
 
