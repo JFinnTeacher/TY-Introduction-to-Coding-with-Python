@@ -1,0 +1,16 @@
+2025-05-14 10:22:36: Turning Off Copy Attributes, as one of file systems does not support it
+2025-05-14 10:22:36: Turning Off Copy Symbolic Links, as one of file systems does not support it. You may want to consider using Job -> Options -> Advanced -> Links -> Drill Down, if you need to copy folder to which the link points
+2025-05-14 10:22:37: -- Analysis Started by Analyze command
+2025-05-14 10:22:37: L: Reading State File msgraph://graph.microsoft.com/:drive:FCF7DA85B79B963A/School - Subject Notes/TY-Introduction-to-Coding-with-Python/_gsdata_/_file_state_v4._gs
+2025-05-14 10:22:38: Waiting for 1+4(120) sec on verb GET: Rate Limit, Throttled by Microsoft (retry-after:): Server says: Service Unavailable (status code 503)
+2025-05-14 10:22:43: Recovered the connection, continuing operations
+2025-05-14 10:22:43: File System does not return CheckSum when promised: msgraph://graph.microsoft.com/:drive:FCF7DA85B79B963A/School - Subject Notes/TY-Introduction-to-Coding-with-Python/.git/FETCH_HEAD
+2025-05-14 10:22:43: File System does not return CheckSum when promised: msgraph://graph.microsoft.com/:drive:FCF7DA85B79B963A/School - Subject Notes/TY-Introduction-to-Coding-with-Python/Lesson 01 - Introduction/Lesson 01 - Creating your First program.pdf
+2025-05-14 10:22:43: File System does not return CheckSum when promised: msgraph://graph.microsoft.com/:drive:FCF7DA85B79B963A/School - Subject Notes/TY-Introduction-to-Coding-with-Python/Lesson 03 - Inputs and Strings/Teaching Assets/.ts/Lesson 03 Inputs and Strings.gslides.json
+2025-05-14 10:22:43: File System does not return CheckSum when promised: msgraph://graph.microsoft.com/:drive:FCF7DA85B79B963A/School - Subject Notes/TY-Introduction-to-Coding-with-Python/Lesson 03 - Inputs and Strings/Teaching Assets/.ts/Lesson 03 Inputs and Strings.pptx.json
+2025-05-14 10:22:43: File System does not return CheckSum when promised: msgraph://graph.microsoft.com/:drive:FCF7DA85B79B963A/School - Subject Notes/TY-Introduction-to-Coding-with-Python/Lesson 03 - Inputs and Strings/Teaching Assets/.ts/tsm.json
+2025-05-14 10:22:43: File System does not return CheckSum when promised: msgraph://graph.microsoft.com/:drive:FCF7DA85B79B963A/School - Subject Notes/TY-Introduction-to-Coding-with-Python/Lesson 05 - Algorithms and Pseudocode/Lesson 05 - Algorithms and Pseudocode.pdf
+2025-05-14 10:22:43: File System does not return CheckSum when promised: msgraph://graph.microsoft.com/:drive:FCF7DA85B79B963A/School - Subject Notes/TY-Introduction-to-Coding-with-Python/Lesson 08 - Project/Project.pdf
+2025-05-14 10:22:43: R: Reading State File goodrive://www.googleapis.com/:shareddrives:/ICT Department/TY Coding Module/_gsdata_/_file_state_v4._gs
+2025-05-14 10:23:23: Changes: 0, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 238
+2025-05-14 10:23:23: -- Analysis Complete. Time 00:00:47, Speed: 5 files/s

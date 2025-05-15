@@ -19,23 +19,13 @@ Question. What do you call it when you have your mom's  mom on social media?
 Answer. Instagran 
 ```
 
-#####    Task 03
-
-Using one print function and this code *\U0001f600*, produce this output.
-
-```
-😀    
-```
-
-**Hint Even though this is a smiley face, you will still need to print the code like a string**
-
 ## Exercise 02
 
 ##### Task 01
 
 Using one print function, produce this output
 
-```
+```python
 I am learning how to  use the newline and tab special characters.    
 ```
 
@@ -99,7 +89,7 @@ using just 1 print command recreate the a shape similar to below
 	    *         
 	*       *      
     *       	    *    
- *                  	 *   
+ *              	 *   
 ************************* 
 ```
 
