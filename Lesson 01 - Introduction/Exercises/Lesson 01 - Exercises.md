@@ -71,7 +71,7 @@ Today I learned.
 
 ##### Task 01
 
-Using one print function, produce this square using the newline and tab special characters.
+Using one print function, produce a square similar to this using the newline and tab special characters.
 
 ```
 **********
