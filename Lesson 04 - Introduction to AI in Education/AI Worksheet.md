@@ -1,0 +1,223 @@
+# Using AI Wisely in School
+
+Student name: _____________   Date: _____________   Pair/Group: _____________
+
+Lesson goals:
+- Understand what AI/LLMs are in plain language.
+- Identify advantages and problems of using AI in school.
+- Create effective prompts.
+- Check AI answers for errors and hallucinations.
+- Practice verifying information accuracy.
+
+## Part A — AI / LLM: What is it? 
+
+1) In your own words, what is AI?
+- _________________________________________________________________
+
+2) Large Language Models (LLMs): underline or tick all that apply
+- [ ] Predict likely next words based on patterns in data
+- [ ] Always know the truth
+- [ ] Can generate text, summaries, and explanations
+- [ ] Can make mistakes confidently (hallucinate)
+- [ ] Replace learning
+
+3) Where have you seen AI used (school or everyday)?
+- _________________________________________________________________
+
+## Part B — Advantages and Problems (Pairs)
+Sort each item into “Advantage” or “Problem” and add one example of your own.
+
+- Fast idea generation: Advantage or Problem
+- because: _____________________________________________________________________________________________________________________________________________________________________________________
+- Personalised explanations: Advantage or Problem
+- because: _____________________________________________________________________________________________________________________________________________________________________________________
+- Can be wrong or biased: Advantage or Problem
+- because: _____________________________________________________________________________________________________________________________________________________________________________________
+- Privacy risks: Advantage or Problem
+- because: _____________________________________________________________________________________________________________________________________________________________________________________
+- Drafting structure for essays/reports: Advantage or Problem
+- because: _____________________________________________________________________________________________________________________________________________________________________________________
+- Over-reliance/shortcut temptation: Advantage or Problem
+- because: _____________________________________________________________________________________________________________________________________________________________________________________
+
+## Part C — Prompt Generation
+Task: Write two prompts on the same topic, one weak and one strong. Then improve the weak one.
+
+Topic: Choose one from the list at the end of the worksheet
+1) Weak prompt (intentionally vague):
+- _________________________________________________________________
+
+2) Strong prompt (clear goal, audience, format, constraints):
+Include: audience level, length, bullet points vs paragraph, 2 examples, one common misconception.
+- _________________________________________________________________
+- _________________________________________________________________
+
+3) Improve the weak prompt by adding at least 3 constraints:
+- _________________________________________________________________
+
+4) Predict: What error might the AI still make with your strong prompt?
+- _________________________________________________________________
+
+## Part D — Error Checking / Hallucination
+Identify red flags and plan verification steps.
+
+1) Hallucination red flags (tick those you’ve seen/heard of):
+- [ ] Overconfident tone with no sources
+- [ ] Fake citations or broken links
+- [ ] Specific numbers with no references
+- [ ] Misattributed quotes
+- [ ] Mixing up similar terms (e.g., correlation vs causation)
+
+2) For each red flag you ticked, write one way to check it:
+- _________________________________________________________________
+- _________________________________________________________________
+- _________________________________________________________________
+
+3) Write a “verification prompt” you would send back to the AI to self-check its answer:
+Example starter: “List your sources with working links and explain how each supports claim X.”
+- Your verification prompt:
+  - _______________________________________________________________
+
+## Part E — Practical Exercise: Information Accuracy (small groups)
+**Goal: Test AI accuracy on a factual topic and document your verification.**
+
+1) Choose a focused question (specific, checkable):
+Examples: “What were the main terms of the 1919 Treaty of Versailles?” or “What are the health impacts of vaping among teens according to 2022–2024 studies?”
+- Your question:
+  - _______________________________________________________________
+
+2) Your initial prompt to the AI (clear, with constraints):
+Include: audience level, ask for 3–5 bullet points, require sources with working links, and dates.
+- _________________________________________________________________
+- _________________________________________________________________
+
+3) Record the AI’s key claims (3–5 bullets) and the sources it gave:
+- Claim 1: ________________________                             Source: _________________________
+- Claim 2: ________________________                             Source: _________________________
+- Claim 3: ________________________                             Source: _________________________
+- Claim 4: ______________________      Source: _________________________
+- Claim 5: ________________________ Source: _________________________
+
+4) Verify each claim using at least two of:
+- The source link provided
+- A trusted reference site (encyclopedia, government, academic)
+- Your textbook or class notes
+- A library database (if available)
+
+Evidence log:
+- Claim 1: Verified? Yes / No — Evidence source(s): ___________________
+- Claim 2: Verified? Yes / No — Evidence source(s): ___________________
+- Claim 3: Verified? Yes / No — Evidence source(s): ___________________
+- Claim 4: Verified? Yes / No — Evidence source(s): ___________________
+- Claim 5: Verified? Yes / No — Evidence source(s): ___________________
+
+5) If something didn’t verify:
+- What was wrong or missing?
+  - ________________________________________________________________
+- Follow-up prompt you sent to correct it:
+  - ________________________________________________________________
+
+6) Final summary (3–4 sentences): What is accurate, what is uncertain, and what you’d cite.
+- _________________________________________________________________
+- _________________________________________________________________
+
+Part F — Responsible Use Reflection (5 minutes)
+1) One classroom scenario where AI use is appropriate and how you would cite it:
+- _________________________________________________________________
+
+2) One scenario where AI should not be used, and why:
+- _________________________________________________________________
+
+3) Your personal rule for using AI this term (one sentence):
+- _________________________________________________________________
+
+Reference box — Quick Prompt Patterns
+- Tutor: “Explain X for a 15-year-old in ≤120 words, include 1 analogy and 2 examples.”
+- Compare: “Give 3 differences between A and B in a table, with a 1-sentence takeaway.”
+- Sources: “Answer in 4 bullets with source titles, authors, dates, and working links.”
+- Self-check: “List any assumptions or uncertainties in your previous answer.”
+
+Mini checklist — Accuracy and Ethics
+- I requested sources with dates.
+- I clicked links and verified claims.
+- I noted any uncertainties.
+- I cited AI assistance if used.
+- I protected privacy and avoided sensitive data.
+
+## Prompt Topic List
+
+Here are varied, subject‑neutral topic prompts students can choose from for Part C (Prompt Generation). They’re broad enough for any class but specific enough to craft strong prompts.
+
+Core academic
+- Climate change: drivers, impacts, and mitigation examples
+- Photosynthesis vs. cellular respiration (differences and misconceptions)
+- Causes of World War I vs World War II (compare/contrast)
+- The Treaty of Versailles: key terms and consequences
+- Pythagoras’ theorem: everyday applications beyond triangles on paper
+- Plate tectonics: causes of earthquakes and volcanoes
+- The water cycle: human impacts on each stage
+- The periodic table: trends (groups vs periods) and why they matter
+- Probability in real life: risk vs uncertainty (common misconceptions)
+- Media bias: indicators and how to cross-check
+
+Digital literacy and computing
+- Password security: what makes a password strong and why
+- Phishing: how to spot it and what to do
+- Digital footprints: how data brokers collect and use data
+- AI in search engines: how results are ranked and risks of “answer engines”
+- Algorithmic recommendations: benefits and echo chamber risks
+- Deepfakes: how to detect manipulated media
+- Copyright and fair use: what students need to know for school projects
+- Cyberbullying: reporting pathways and bystander strategies
+
+Health and wellbeing
+- Teen sleep: effects on learning and mood (recent evidence)
+- Nutrition labels: how to read them and common marketing tricks
+- Vaping vs smoking: comparing health risks (with sources)
+- Screen time: impact on attention and sleep (what evidence actually says)
+- First aid basics: recovery position and when to use it
+- Hydration and performance: myths vs facts
+
+Civics and ethics
+- Freedom of speech vs harmful misinformation: where lines are drawn
+- Data privacy laws basics (GDPR/age-appropriate design): what applies to students
+- Facial recognition in public spaces: benefits and ethical concerns
+- Digital citizenship: rights and responsibilities online
+- Sustainable consumption: fast fashion impacts and alternatives
+
+Arts and culture
+- Music streaming algorithms: how they shape discovery
+- Copyright in fan art and remixes: what is allowed?
+- Cultural appropriation vs appreciation: how to tell the difference
+- Public domain: what it is and how creators can use it
+- Museum curation: how exhibits shape historical narratives
+
+Geography and environment
+- Urban heat islands: causes and simple mitigation tactics
+- Coastal erosion: human and natural drivers with local examples
+- Plastic pollution: microplastics and health/ecosystem impacts
+- Renewable energy types: pros/cons and situational fit
+- Sustainable transport: comparing emissions and accessibility
+
+Study skills and exam literacy
+- Effective note‑taking methods: Cornell vs outline vs map
+- Spaced repetition vs cramming: what research shows
+- Growth mindset vs fixed mindset: classroom applications
+- Academic integrity in the age of AI: appropriate vs inappropriate use
+
+Finance and life skills
+- Budgeting basics for teens: needs vs wants
+- Credit and interest: how debt grows over time
+- Consumer scams: red flags and reporting
+- Renting vs buying: pros/cons in different contexts
+
+Science and society
+- Vaccination: herd immunity explained simply
+- GM foods: common myths vs scientific consensus
+- Nuclear energy: risks, benefits, and waste management
+- Ethical AI: bias, transparency, and accountability in schools
+
+Ready-to-use prompt stem students can apply to any topic above
+- “Explain [chosen topic] for a 15‑year‑old in ≤120 words. Include 1 analogy, 2 everyday examples, and 1 common misconception. Provide 2 sources with titles, authors, dates, and working links.”
+- “Compare [A] and [B] in 4 bullets: definition, two key differences, one common misconception, one-sentence takeaway. Include 1 credible source with a working link.”
+- “Give 3–5 key facts about [topic] from 2020–2025 sources. For each fact, include the source title, organization, date, and a working link. Note any uncertainties.”
